@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+
+nav{
+    height: 50px;
+    background-color: black;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+}
